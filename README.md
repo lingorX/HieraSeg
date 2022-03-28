@@ -6,6 +6,6 @@
 [[`arXiv`](https://github.com/0liliulei/HieraSeg)] [[`BibTeX`](#CitingHieraSeg)]
 
 ## Updates
-* This repo will an official PaddlePaddle implementation for HieraSeg.
+* This repo will release an official PaddlePaddle implementation for HieraSeg.
 
 ## <a name="CitingHieraSeg"></a>Citing HieraSeg
