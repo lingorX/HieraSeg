@@ -4,6 +4,7 @@
 [[`arXiv`](https://arxiv.org/abs/2203.14335)] [[`BibTeX`](#CitingHieraSeg)]
 
 ## Updates
+* An [Unofficial implementation](https://github.com/qhanghu/HSSN_pytorch) based on Pytorch has been released. Thanks to Beijing Institute of Technology!
 * This repo will release an official PaddlePaddle implementation for paper: Deep Hierarchical Semantic Segmentation.
 
 ## Abstract
